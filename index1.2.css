@@ -1,0 +1,135 @@
+.Main_Block{
+    width: 1137px;
+    height: 600px;
+    margin: 4px;
+    padding: 3px;
+    border: 2px solid red;
+         margin: 0px auto;
+
+    }
+    .Block_inner{
+    width: 550px;
+    height: 580px;
+    margin: 4px;
+    padding: 3px;
+    border: 2px solid red;
+    float: left;
+          
+          }
+          .Block_Two{
+        width: 550px;
+        height: 580px;
+        margin: 4px;
+      padding: 3px;
+        border: 2px solid red;
+        float: left;
+
+          }
+          .Green_one{
+          width: 165px;
+    height: 560px;
+    margin: 4px;
+    padding: 3px;
+    border: 2px solid green;
+    float: left;  
+          }
+          .Green_two{
+          width: 165px;
+    height: 560px;
+    margin: 4px;
+    padding: 3px;
+    border: 2px solid green;
+    float: left;
+      
+          }
+          .Green_three{
+          width: 165px;
+    height: 560px;
+    margin: 4px;
+    padding: 3px;
+    border: 2px solid green;
+    float: left;
+    
+          }
+          .Two_Greenone{
+          width: 330px;
+    height: 280px;
+    margin: 4px;
+    padding: 3px;
+    border: 2px solid green;
+    float: left;
+          }
+          .Block_Three{
+          width: 180px;
+    height: 280px;
+    margin: 4px;
+    padding: 3px;
+    border: 2px solid green;
+    float: left;  
+          }
+          .Th_GreenThree{
+          width: 180px;
+    height: 260px;
+    margin: 4px;
+    padding: 3px;
+    border: 2px solid green;
+    float: left;  
+          }
+          .Th_GreenFour{
+          width: 330px;
+    height: 260px;
+    margin: 4px;
+    padding: 3px;
+    border: 2px solid green;
+    float: left;  
+          }
+          .Two_Bluenoe{
+          width: 145px;
+    height: 260px;
+      margin: 4px;
+    padding: 3px;
+    border: 2px solid blue;
+    float: left;
+          }
+          .Two_Bluetwo{
+          width: 145px;
+    height: 260px;
+          margin: 4px;
+    padding: 3px;
+    border: 2px solid blue;
+    float: left;
+    
+          }
+          .Th_BlueOne{
+           width: 90px;
+    height: 243px;
+    margin: 4px;
+    padding: 3px;
+    border: 2px solid blue;
+    float: left;
+          }
+          .Th_BlueTwo{
+           width: 90px;
+    height: 243px;
+    margin: 4px;
+    padding: 3px;
+    border: 2px solid blue;
+    float: left;
+          }
+          .Th_BlueThree{
+           width: 90px;
+    height: 243px;
+      margin: 4px;
+    padding: 3px;
+    border: 2px solid blue;
+    float: left;
+          }
+          @media screen and (max-width: 1200px){
+            .Main_Block{
+              width: 570px;
+              height: 1200px;
+              margin: 0px auto;
+            }
+            .Block_inner{
+              float: left;
+            }
